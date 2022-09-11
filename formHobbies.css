@@ -1,0 +1,52 @@
+body{
+    width: 550px;
+    text-align: center;
+    font-family: "Cambria Math";
+    margin: auto;
+
+}
+.container{
+    margin-top: 20px;
+    padding: 10px;
+    background: white;
+}
+.header{
+    background-color: darkorange;
+    height: 35px;
+    margin: 20px 20px 20px 20px;
+    font-size: 28px;
+    color: white;
+}
+.header p{
+    padding-top: 3px;
+}
+form{
+    text-align: left;
+}
+.title{
+    font-size: 18px;
+    margin-left: 50px;
+    color: dodgerblue;
+}
+label{
+    color: darkorange;
+}
+input[type=text]{
+    height: 22px;
+    margin: 10px;
+    outline: none;
+}
+input[type=checkbox]{
+    margin-left: 40px;
+}
+.button{
+    margin-left: 160px;
+    margin-top: 20px;
+}
+input[type=submit]{
+    padding: 3px;
+}
+input[type=reset]{
+    padding: 3px;
+    margin-left: 10px;
+}
